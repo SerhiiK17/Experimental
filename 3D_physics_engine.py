@@ -6,3 +6,5 @@ a = cos(Pi)
 b = sin(Pi/2)
 
 c = tg(Pi/4)
+
+d = ctg(Pi/8)
